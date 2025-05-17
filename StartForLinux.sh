@@ -1,3 +1,4 @@
+#!/bin/bash
 # When installing, move this to your Linux files. Then, you don't have to change your directory.
 chmod +x RadiantX
 ./RadiantX.cpp
